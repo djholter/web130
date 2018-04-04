@@ -1,0 +1,50 @@
+* {
+    font-family: arial, verdana, sans-serif;
+    }
+
+header {
+        width: 90%;
+        height: 150px;
+        background-color: #4d194d;
+        display: block;
+        float: left;
+        margin-top: 5%;
+        border-top-right-radius: 10px;
+        }  
+
+section {
+        float: left;
+        width: 89%;
+        height: 430px;
+        padding: 5px;
+        margin: 0%;
+        overflow:auto;
+        background-color: #c9c487;
+        border-bottom-left-radius: 10px;
+                }
+
+body {
+    margin: auto 5%;
+    }
+
+h1 {
+    margin: 10% 40% 20% 5.4%;
+    color: #c9c487;
+    font-size: 40px;
+    overflow: hidden;
+    }
+
+p {
+    margin: 2% 40% 1% 5%;
+    overflow: hidden;
+    font-size: 20px;
+    color: #4d194d;
+    }
+
+img {
+    float: right;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-left: 2%;
+    overflow: hidden;
+}
